@@ -60,3 +60,15 @@ h6{
 width: 500px;
 height: 500px;
   }
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(156, 97, 71);
+}
+ nav ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+ }
