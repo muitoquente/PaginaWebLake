@@ -52,7 +52,7 @@ h6{
   .galeria{
     display: flex;
     border: 10px solid rgb(125, 78, 29);
-    border-image: linear-gradient(to bottom,rgb(134, 74, 31)0%, black 100%     )1;
+    border-image: linear-gradient(to bottom,rgb(100, 80, 65)0%, black 100%     )1;
     overflow-x: scroll;
   
   }
