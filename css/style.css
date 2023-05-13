@@ -1,6 +1,6 @@
 body{
     background-color: darkslategray;
-    background-image: url("../img/fondo\ chris.jpg");
+    background-image: url("../img/papel-blanco-manchas-doradas_23-2148911745.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -40,26 +40,116 @@ h6{
   }
   .primer-parrafo{
     color: black;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 80;
   }
   .segundo-parrafo{
-    color: rgb(90, 51, 22);
-    font-size: 20px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
   } 
 
   .galeria{
     display: flex;
     border: 10px solid rgb(125, 78, 29);
-    border-image: linear-gradient(to bottom,rgb(100, 80, 65)0%, black 100%     )1;
+    border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
     overflow-x: scroll;
   
   }
   .galeria img{
-width: 500px;
-height: 500px;
+    width: 500px;
+    height: 500px;
+      }
+  .aretes{
+        display: flex;
+        border: 10px solid rgb(125, 78, 29);
+        border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+        overflow-x: scroll;
+      
+      }
+      .aretes img{
+        width: 300px;
+        height: 300px;
+          }
+ .collares{
+            display: flex;
+            border: 10px solid rgb(125, 78, 29);
+            border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+            overflow-x: scroll;
+          
+          }
+          .collares img{
+            width: 300px;
+            height: 300px;
+              }
+ .pulseras{
+    display: flex;
+    border: 10px solid rgb(125, 78, 29);
+    border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+    overflow-x: scroll;
+  
   }
+  .pulseras img{
+    width: 300px;
+    height: 300px;
+      }
+ .anillos{
+    display: flex;
+    border: 10px solid rgb(125, 78, 29);
+    border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+    overflow-x: scroll;
+  
+  }
+  .anillos img{
+    width: 300px;
+    height: 300px;
+      }
+.broches{
+        display: flex;
+        border: 10px solid rgb(125, 78, 29);
+        border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+        overflow-x: scroll;
+      
+      }
+      .broches img{
+        width: 300px;
+        height: 300px;
+          }
+.relojes{
+    display: flex;
+    border: 10px solid rgb(125, 78, 29);
+    border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+    overflow-x: scroll;
+  
+  }
+  .relojes img{
+    width: 300px;
+    height: 300px;
+      }
+.piercings{
+        display: flex;
+        border: 10px solid rgb(125, 78, 29);
+        border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+        overflow-x: scroll;
+      
+      }
+      .piercings img{
+        width: 300px;
+        height: 300px;
+          }
+.tobilleras{
+            display: flex;
+            border: 10px solid rgb(125, 78, 29);
+            border-image: linear-gradient(to bottom,rgb(212, 192, 153)0%, rgb(19, 16, 1) 100%     )1;
+            overflow-x: scroll;
+          
+          }
+          .tobilleras img{
+            width: 300px;
+            height: 300px;
+              }
+
 nav{
   display: flex;
   justify-content: space-around;
